@@ -22,9 +22,9 @@
     "url": "https://85010.tw",
     "icon": "https://icons.duckduckgo.com/ip3/85010.tw.ico",
     "slug": "a85010",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 152,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "moneyback",
     "url": "https://moneyback.co",
     "icon": "https://icons.duckduckgo.com/ip3/moneyback.co.ico",
     "slug": "moneyback",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 144,
     "timeMonth": 194,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "zhelu",
     "url": "https://zhelu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/zhelu.tw.ico",
     "slug": "zhelu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 174,
     "timeMonth": 388,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "followme",
@@ -130,9 +136,9 @@
     "url": "https://010.tw",
     "icon": "https://icons.duckduckgo.com/ip3/010.tw.ico",
     "slug": "a010",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +147,8 @@
     "timeWeek": 285,
     "timeMonth": 454,
     "timeYear": 454,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   }
 ]
